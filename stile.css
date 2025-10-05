@@ -1,0 +1,52 @@
+img {
+    width: 1000px;
+     border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    width: 1000px;
+    text-align: justify;
+}
+body {
+    background: #2b70ce;
+    font-family: Arial;
+}
+
+.wrapper {
+    background: #fff;
+    width: 1000px;
+    padding: 10px 50px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bth {
+    background: #2b70ce;
+    padding: 3px 12px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 15px;
+    transition: 0.1s;
+}
+
+.bth:hover {
+    padding: 5px 15px;
+    background: #ff0000;
+    
+}
+
+.menu_bth {
+    color: #0bbc27;
+    padding: 3px;
+    margin: 1px;
+    text-decoration: underline;
+    
+}
